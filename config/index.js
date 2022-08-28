@@ -10,7 +10,7 @@ export const config = {
     // 模板消息id
     TEMPLATE_ID: "Fx1DmTJp_ZX_7bmR9hfc01jbIBXMxfth46A97N8txjM",
     // 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-    USERS: ["omSkI6BROE_am-lx9UdunnvwZWDY"],
+    USERS: ["omSkI6BROE_am-lx9UdunnvwZWDY", "omSkI6ItA3UYjjE2esYdMI7QIkUk"],
      
     /**
      * 信息配置
@@ -35,8 +35,6 @@ export const config = {
 
     // 在一起的日子，格式同上
     LOVE_DATE: "2021-11-25",
-    // 结婚纪念日
-    MARRY_DATE: "2020-01-04",
 
 
     /** 好文节选 */
@@ -54,8 +52,6 @@ export const config = {
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
 // 今天是我们恋爱的第{{love_day.DATA}}天
-// 今天是我们结婚的第{{marry_day.DATA}}天
-// {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
 // {{note_ch.DATA}}  
