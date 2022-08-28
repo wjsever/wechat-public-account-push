@@ -58,4 +58,4 @@ export const config = {
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
-// {{note_ch.DATA}}
+// {{note_ch.DATA}}  
